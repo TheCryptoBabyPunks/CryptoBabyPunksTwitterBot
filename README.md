@@ -32,7 +32,7 @@
 
 🥰 Find out who the parents of your BabyPunks are with [Punks.Family](http://punks.family/)!
 
-💬 Join the BabyPunks Family on [Discord](https://discord.com/invite/KXHXWucTpm)!
+💬 Join the BabyPunks Family on [Twitter](https://twitter.com/cryptobabypunks)
 
 ### :books: Built With
 
