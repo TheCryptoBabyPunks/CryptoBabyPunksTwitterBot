@@ -1,0 +1,4 @@
+:red_heart: {asset_name} has been adopted by {acc} from {seller} for {price}{symbol} :smiling_face_with_hearts::baby_bottle:
+:backhand_index_pointing_down:
+{permalink}
+#{collection_slug} #nft #opensea

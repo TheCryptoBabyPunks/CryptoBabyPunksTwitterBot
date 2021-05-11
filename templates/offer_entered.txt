@@ -1,0 +1,4 @@
+:fire: {acc} wants to adopt {asset_name} for {price}{symbol} :smiling_face_with_hearts::baby_bottle:
+:backhand_index_pointing_down:
+{permalink}
+#{collection_slug} #nft #opensea
