@@ -17,6 +17,9 @@
   * [Introduction](#introduction)
   * [Built With](#built-with)
   * [Structure](#structure)
+* [Quick Start](#quick-start)
+*   [Building the Docker Image](building-the-docker-image)
+*   [Running the Docker Image](running-the-docker-image
 * [License](#license)
 
 ## :zap: About the Project
@@ -61,6 +64,23 @@ tweepy == 3.8.0
 │   ├── offer_entered.txt
 │   └── successful.txt
 └── tweet-bot.tar.gz
+```
+## :boom: Quick Start
+
+### :fire: Building the Docker :whale: Image
+
+```
+$ docker build . -t tweet-bot
+```
+### :rocket: Running the Docker :whale: Image
+
+```
+$ docker run -it \
+  -e CONSUMER_KEY="<CONSUMER_KEY>" \
+  -e CONSUMER_SECRET="<CONSUMER_SECRET>" \
+  -e ACCESS_TOKEN="<ACCESS_TOKEN>" \
+  -e ACCESS_TOKEN_SECRET="<ACCESS_TOKEN_SECRET>" \
+tweet-bot
 ```
 
 ## :open_book: License
