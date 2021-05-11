@@ -18,8 +18,8 @@
   * [Built With](#built-with)
   * [Structure](#structure)
 * [Quick Start](#quick-start)
-*   [Building the Docker Image](building-the-docker-image)
-*   [Running the Docker Image](running-the-docker-image)
+  * [Building the Docker Image](building-the-docker-image)
+  * [Running the Docker Image](running-the-docker-image)
 * [License](#license)
 
 ## :zap: About the Project
