@@ -20,6 +20,7 @@
 * [Quick Start](#quick-start)
   * [Building the Docker Image](building-the-docker-image)
   * [Running the Docker Image](running-the-docker-image)
+  * [Output](#output)
 * [License](#license)
 
 ## :zap: About the Project
@@ -82,6 +83,12 @@ $ docker run -it \
   -e ACCESS_TOKEN_SECRET="<ACCESS_TOKEN_SECRET>" \
 tweet-bot
 ```
+
+### 🖥️ Output
+
+<p align="center">
+  <img src="https://github.com/TheCryptoBabyPunks/CryptoBabyPunksTwitterBot/blob/main/static/bot_message.png" width="50%" height="50%">
+</p>
 
 ## :open_book: License
 
